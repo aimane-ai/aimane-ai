@@ -18,12 +18,6 @@ My goal is to keep learning new technologies and share my projects with the comm
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
-
----
-
 ## 📫 Connect with Me  
 - 📧 Email: thegoat6964@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/aimane-elouarrate-760646343/

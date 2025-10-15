@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aimane
 
 Welcome to my GitHub profile!  
-I’m passionate about ** web development**.  
+I’m passionate about 'Web Development'.  
 My goal is to keep learning new technologies and share my projects with the community.  
 
 
@@ -16,7 +16,6 @@ My goal is to keep learning new technologies and share my projects with the comm
 [![](https://visitcount.itsvg.in/api?id=aimane-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📫 Connect with Me  
-- 📧 Email: thegoat6964@gmail.com 
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thegoat6964@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimane-elouarrate-760646343/)
 

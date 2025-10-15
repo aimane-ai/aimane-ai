@@ -15,14 +15,6 @@ My goal is to keep learning new technologies and share my projects with the comm
 
 [![](https://visitcount.itsvg.in/api?id=aimane-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 🛠️ Skills  
-- **Languages**: PHP, Python, JavaScript, SQL
-- **Frameworks / Libraries**: React, TailwindCSS, Bootstrap, laravel, React 
-- **Tools**: Git, VS Code, Linux, MySQL
-
-
-
 ## 📫 Connect with Me  
 - 📧 Email: thegoat6964@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/aimane-elouarrate-760646343/

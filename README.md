@@ -22,4 +22,4 @@ My goal is to keep learning new technologies and share my projects with the comm
 
 
 
-✨ Thanks for visiting my profile! Feel free to check out my projects 🚀.
+✨ Thanks for visiting my profile! Feel free to check out my projects 🚀
